@@ -1,9 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Bochan%20Jeong&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20|%20CV%20→%20LLM%20%26%20Agents&descSize=20&descAlignY=55)
-
-</div>
-
 ## 👤 About
 
 | | |
